@@ -13,6 +13,12 @@ python.exe -m pip install --upgrade
 
 pip install robotframework
 
+### how to run the test in vscode
+
+Cmd
+
+pathfile robot filename.robot
+
 
 
 
